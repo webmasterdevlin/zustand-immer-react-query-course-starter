@@ -29,7 +29,6 @@ const TablePage = Loadable(
 
 export const pathNames = {
   home: '/',
-  heroes: '/heroes',
   table: '/table',
 } as const;
 
