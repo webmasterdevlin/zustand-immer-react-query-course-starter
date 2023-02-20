@@ -7,7 +7,7 @@ type Props = {
 const TitleBar = ({ title }: Props) => {
   return (
     <div className={'mb-10'}>
-      <h1 data-testid="title-page">{title}</h1>
+      <h1>{title}</h1>
     </div>
   );
 };
