@@ -11,7 +11,7 @@
 - https://playwright.dev
 
 ```sh
-$ git clone https://github.com/webmasterdevlin/zustand-immer-react-query-course.git
+$ git clone https://github.com/webmasterdevlin/zustand-immer-react-query-course-starter.git
 $ cd zustand-immer-react-query-course
 $ pnpm install
 $ pnpm start
