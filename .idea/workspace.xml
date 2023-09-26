@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa97e883-f774-4dbb-a9d8-c4255b15f804" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/AntiHeroesPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AntiHeroesPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HeroesPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HeroesPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/TablePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TablePage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/VillainsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/VillainsPage.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +59,18 @@
   <component name="KubernetesApiPersistence">
     <option name="context" value="myCluster" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ck5oonrv" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="1vt6nidbZGdec6VmN8xNrACfaoK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,6 +87,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/inmetadeveloper/Documents/DEVELOPMENT/React/zustand-immer-react-query-course/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -150,6 +150,7 @@
       <workItem from="1673253886121" duration="7736000" />
       <workItem from="1673270626796" duration="15077000" />
       <workItem from="1675786342307" duration="717000" />
+      <workItem from="1695734748745" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1644671503056</created>

@@ -34,16 +34,16 @@ export const pathNames = {
 
 const lazyRoutes: RouteObject[] = [
   {
+    element: <HomePage />,
     path: pathNames.home,
-    element: <HomePage />,
   },
   {
-    path: pathNames.table,
     element: <TablePage />,
+    path: pathNames.table,
   },
   {
-    path: '*',
     element: <HomePage />,
+    path: '*',
   },
 ];
 
